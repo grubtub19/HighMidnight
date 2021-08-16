@@ -9,7 +9,7 @@ https://docs.google.com/document/d/1ZRjtKaIqqPs7RW6xzWVddFy9PFnNS3SaC2DgL9fiXQU/
 
 ## Development
 
-On a 5 student team, I took the role of creative director and level designer. Specifically, the game concept/proposal was of my own creation, so I played a critical role in overseeing the evolution of gameplay as we limited the scope of the project to meet deadlines. In our first sprint, I was responsible for implementing the whip's physics simulation; I had to balance realism with the limitations of real-time physics simulation, learnability, and fun. In the second sprint, I was responsible for level design, including the creation of the terrain, placement of props, and overall level design. In our final sprint, I was responsible for polish/QA.
+On a 5 student team, I took the role of creative director, level designer, and programmer. Specifically, the game concept/proposal was of my own creation, so I played a critical role in overseeing the evolution of gameplay as we limited the scope of the project to meet deadlines. In our first sprint, I was responsible for implementing the whip's physics simulation; I had to balance realism with the limitations of real-time physics simulation, learnability, and fun. In the second sprint, I was responsible for level design, including the creation of the terrain, placement of props, and overall level design. In our final sprint, I was responsible for polish/QA.
 
 ### Software Used
 Blender, Unity, SteamVR
