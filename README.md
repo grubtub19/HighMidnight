@@ -1,5 +1,7 @@
 This is a Unity VR game developed by my Senior Software team for one semester at the University of Tulsa. Our project was assessed by the Computer Science advisory board at the University of Tulsa and showcased at Tokyo in Tulsa 2019 for the University's booth.
 
+![Gameplay Screenshot](https://user-images.githubusercontent.com/35621581/130067747-7be32d63-f99d-46f7-938e-b1b09dad440a.png)
+
 ## Download Release Here:
 
 https://grubtub19.itch.io/high-midnight
